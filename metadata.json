@@ -1,0 +1,5 @@
+{
+  "name": "Photo Magic: AI Image Editor",
+  "description": "An AI-powered image editing application that allows users to clean up product photos and make creative edits by simply typing instructions. Leveraging the Gemini 2.5 Flash Image model, users can upload an image, provide a text prompt like 'remove the background' or 'add a retro filter', and instantly receive a professionally edited version.",
+  "requestFramePermissions": []
+}
